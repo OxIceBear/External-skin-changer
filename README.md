@@ -33,7 +33,7 @@ Just make an Issue, or contact my discord: OxIceBear.
 
 ## Disclaimer
 
-Usage of this tool may violate the terms of service of CS:GO or other games. Use at your own risk. I am not liable for any consequences.
+Usage of this tool may violate the terms of service of CS:GO. Use at your own risk. I am not liable for any consequences.
 
 Enjoy!
 
