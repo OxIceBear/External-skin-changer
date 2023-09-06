@@ -36,3 +36,7 @@ Just make an Issue, or contact my discord: OxIceBear.
 Usage of this tool may violate the terms of service of CS:GO or other games. Use at your own risk. I am not liable for any consequences.
 
 Enjoy!
+
+##Source Code
+
+U cant use this source code and take it as Yours. Credit me, or else i can take legal actions on you. Its read only!
